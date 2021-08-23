@@ -90,7 +90,7 @@ Splash Intro
 ===============================
 */
 #splash {
-  background-image: url('images/splash.png');
+  background-image: url('Images/splash.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
